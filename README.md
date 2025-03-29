@@ -2,4 +2,4 @@
 
 ## Water drinking reminder application
 
-## Tech stack : NextJs, NodeJs with express and MongoDb
+## Tech stack : React + Vite, NodeJs with express and MongoDb
